@@ -1,0 +1,30 @@
+{
+  "name": "clamp-number",
+  "version": "1.0.0",
+  "description": "Clamp number between range",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Kristofer Forsell",
+    "email": "kristofer@your-majesty.com",
+    "url": "https://github.com/krilo"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "clamp,",
+    "range,",
+    "math"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/krilo/clamp-number.git"
+  },
+  "homepage": "https://github.com/krilo/clamp-number",
+  "bugs": {
+    "url": "https://github.com/krilo/clamp-number/issues"
+  }
+}
