@@ -6,6 +6,11 @@ Clamp value between range
 
 ## Usage
 
+```js
+var clamp = require('clamp-number')()
+var value = clamp(4, 0, 3)
+```
+
 [![NPM](https://nodei.co/npm/clamp-number.png)](https://www.npmjs.com/package/clamp-number)
 
 ## License
