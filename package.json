@@ -1,6 +1,6 @@
 {
   "name": "clamp-number",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Clamp number between range",
   "main": "index.js",
   "license": "MIT",
