@@ -7,8 +7,11 @@ Clamp value between range
 ## Usage
 
 ```js
-var clamp = require('clamp-number')()
-var value = clamp(4, 0, 3)
+var clamp = require('clamp-number')
+
+clamp(2, 0, 3)  // == 2
+clamp(10, 0, 3) // == 3
+clamp(-5, 0, 3) // == 0
 ```
 
 [![NPM](https://nodei.co/npm/clamp-number.png)](https://www.npmjs.com/package/clamp-number)
