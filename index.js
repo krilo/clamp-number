@@ -7,8 +7,8 @@
  * @return {[Number]}
  */
 
-function clamp(val, min, max){
-  Math.max(min,Math.min(max,val))
+function clamp (val, min, max) {
+  return Math.max(min, Math.min(max, val))
 }
 
 module.exports = clamp;
